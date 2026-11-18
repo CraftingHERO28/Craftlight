@@ -1,0 +1,15 @@
+﻿Item;Item No.;Quantity;Unit Price (EUR);Total Price (EUR);link
+LDR photoresistor (TKN PGM5639D, 5 mm);TKN PGM5639D;1;0.25;0.25;https://www.reichelt.de/de/de/shop/produkt/ldr_100mw_30_90kohm_560nm_150vdc_led_5mm-379956
+LM339 DIP comparator, quad, DIP-14;LM 339 DIL;1;0.24;0.24;https://www.reichelt.de/de/de/shop/produkt/komparator_4-fach_dip-14-10475
+IC socket, 14-pin, dual spring contact;GS 14;1;0.07;0.07;https://www.reichelt.de/de/de/shop/produkt/ic-sockel_14-polig_doppelter_federkontakt-8206
+LED, 3 mm, through-hole, red, 350 mcd, 60°;3004R1D-EHC-B;4;0.05;0.2;https://www.reichelt.de/de/de/shop/produkt/led_3mm_bedrahtet_rot_350_mcd_60_-361587
+Lithium coin cell, 3 V, 150 mAh, 20.0 x 2.5 mm;CR 2025;1;0.4;0.4;https://www.reichelt.de/de/de/shop/produkt/lithium-knopfzelle_3_v_150_mah_20_0x2_5_mm-26549
+Trimmer potentiometer, horizontal, 10 kOhm, 10 mm;PT 10-L 10K;1;0.35;0.35;https://www.reichelt.de/de/de/shop/produkt/einstellpotentiometer_liegend_10_kohm_10_mm-14621
+Coin cell holder for Ø 20 mm;KZH 20-1;1;0.69;0.69;https://www.reichelt.de/de/de/shop/produkt/knopfzellenhalter_fuer_20_mm-44621
+Metal film resistor, axial, 0.6 W, 10 kOhm, 1%;VI MBB02070C1002;5;0.05;0.25;https://www.reichelt.de/de/de/shop/produkt/duennschichtwiderstand_axial_0_6_w_10_kohm_1_-233666
+Metal film resistor, axial, 0.6 W, 330 Ohm, 1%;VI MBB02070C3300;3;0.05;0.15;https://www.reichelt.de/de/de/shop/produkt/duennschichtwiderstand_axial_0_6_w_330_ohm_1_-233724
+Reichelt shipping (standard within Germany);Reichelt shipping;1;5.95;5.95;
+JLCPCB PCB manufacturing (5 pcs);JLCPCB ;1;1.82;1.82;https://jlcpcb.com/
+JLCPCB customs duties & taxes;Tax and fee;1;5.66;5.66;
+JLCPCB shipping;shipping;1;1.36;1.36;
+TOTAL PRICE;TOTAL;;;17.39 €=$18.78;
