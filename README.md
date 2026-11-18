@@ -11,3 +11,10 @@ I deliberately chose an open-board THT (Through-Hole Technology) design without 
 * **Component Footprint Selection:** Balancing aesthetic choices with practical assembly meant sorting out proper THT footprints, such as selecting horizontal axial resistors so the board stays flat, neat, and visually balanced.
 
 *Translated with Google Translator*
+
+<img width="905" height="886" alt="Craftlight end (1)" src="https://github.com/user-attachments/assets/fe7d225d-7787-42a3-bd19-7098b499e84b" />
+<img width="784" height="488" alt="Craftlight (3)" src="https://github.com/user-attachments/assets/7c479025-9119-42bb-a516-a50d608e54a6" />
+<img width="1310" height="817" alt="Craftlight (4)" src="https://github.com/user-attachments/assets/d70dd258-28cf-4008-8912-c61e8ee55941" />
+<img width="814" height="761" alt="Craftlight (1)" src="https://github.com/user-attachments/assets/be221663-47e1-4160-b476-4a97ca79db85" />
+<img width="1269" height="642" alt="Craftlight (2)" src="https://github.com/user-attachments/assets/e76071bc-b02c-47f9-93c5-1ec2ca7f40b5" />
+<img width="1312" height="407" alt="Craftlight end (5)" src="https://github.com/user-attachments/assets/2d0733e3-3fcc-4da4-a379-464d3603fad9" />
