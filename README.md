@@ -13,6 +13,8 @@ I deliberately chose an open-board THT (Through-Hole Technology) design without 
 *Translated with Google Translator*
 
 <img width="905" height="886" alt="Craftlight end (1)" src="https://github.com/user-attachments/assets/fe7d225d-7787-42a3-bd19-7098b499e84b" />
+<img width="1377" height="826" alt="image" src="https://github.com/user-attachments/assets/5e7684f5-228e-4c3e-88e4-a55a91e3db26" />
+
 <img width="784" height="488" alt="Craftlight (3)" src="https://github.com/user-attachments/assets/7c479025-9119-42bb-a516-a50d608e54a6" />
 <img width="1310" height="817" alt="Craftlight (4)" src="https://github.com/user-attachments/assets/d70dd258-28cf-4008-8912-c61e8ee55941" />
 <img width="814" height="761" alt="Craftlight (1)" src="https://github.com/user-attachments/assets/be221663-47e1-4160-b476-4a97ca79db85" />
