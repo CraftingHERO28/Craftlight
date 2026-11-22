@@ -3,10 +3,11 @@ title: "Craftlight"
 github: "https://github.com/CraftingHERO28/Craftlight"
 description: "A simple 3-step LED light indicator built on an open PCB using an LM339 comparator and an LDR light sensor. It runs on a small coin cell battery and shows ambient light levels in real-time."
 created_at: "2026-11-18"
-total_time: "2h 48m"
+total_time: "3h"
 ---
 
 # November 18, 2026: I selected the parts and connected them to each other.
+<!-- fabricate:entry 3401 -->
 
 Using AI, I identified all the components I needed and connected them correctly so that everything should work; I did this using KiCad. It was particularly challenging to determine the correct outputs for the LM339 and to first grasp the fact that there are five distinct sections, even though I only need four of them. Finally, I added the 'Hutprinz' component, ensuring that every part is a THT  component so that it isn't too difficult to solder.
 
@@ -16,7 +17,8 @@ Using AI, I identified all the components I needed and connected them correctly 
 
 **Total time spent: 1h 12m**
 
-# November 18, 2026: I rooted the PCB
+# November 18, 2026 (entry 2): I rooted the PCB
+<!-- fabricate:entry 3411 -->
 
 I routed the PCB in KiCad. First, I placed the LDR light sensor far away from the LEDs so they wouldn't interfere with the light readings, while keeping the potentiometer and battery holder easy to reach. After routing the copper traces, I ran the Design Rule Checker (DRC) and fixed a few minor spacing issues until everything passed without errors. Finally, I decided to skip a plastic case—it saves money and material, prevents shadows from distorting the sensor, gives me direct access to the trimmer and battery, and leaves the clean THT components and traces visible.
 
@@ -26,7 +28,8 @@ I routed the PCB in KiCad. First, I placed the LDR light sensor far away from th
 
 **Total time spent: 48m**
 
-# November 18, 2026: Items added to cart, BOM.csv, README
+# November 18, 2026 (entry 3): Items added to cart, BOM.csv, README
+<!-- fabricate:entry 3412 -->
 
 Once I had completed all the work on the printed circuit board, I still needed to source the components. After some research, I found that Reichelt offered the best prices. Furthermore, as it is a German supplier, there are no additional EU taxes or fees to consider. I then created a bill of materials (BOM) in CSV format, which included all the components required for the shopping cart. In addition, I submitted the board design to JLCPCB to determine the costs there; this information is also included in the BOM. Finally, I wrote a README file in German and had it translated using Google Translate.
 
@@ -38,3 +41,12 @@ Once I had completed all the work on the printed circuit board, I still needed t
 ![](https://fabricate.hackclub-assets.com/68ce719df6e018c08fbc19a2361ceb986cead209bd902f5ad80256d03b096af6/image-png/Crafthub%20end%20%286%29.png)
 
 **Total time spent: 48m**
+
+# November 22, 2026: I changed the potentiometer
+<!-- fabricate:entry 3717 -->
+
+I just took another look at the entire assembly and realized that the potentiometer is incorrect, as the pin spacing in KiCad differs from the one I had selected. I had to investigate what was wrong, and I discovered that the potentiometer I had chosen was a horizontal type, whereas the design required a vertical one. So, I opted for the simplest solution: I just added a vertical version to my shopping cart at Reichelt.
+
+![](https://fabricate.hackclub-assets.com/84a396d394cb715a93b6085bf135caaa5d8ccc65a6684f9686796391b7641e02/image-png/Screenshot%202026-11-22%20180202.png)
+
+**Total time spent: 12m**
